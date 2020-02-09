@@ -4,7 +4,7 @@
 # Installation Back-end
  $ npm install
  
-# Start Bact-end
+# Start Back-end
  $ npm start
  
 # Installation Front-end
@@ -14,8 +14,9 @@
  $ npm run dev
 
 # Installation Front-end tests
- $ pip install
- 
+ - $ pip install robotframework
+ - $ pip install robotframework-seleniumlibrary
+  
 # Start Front-end Test
  - Install Chrome browser
  - $ robot tester.robot
