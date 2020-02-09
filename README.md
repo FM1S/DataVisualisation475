@@ -22,4 +22,4 @@
  - $ robot tester.robot
  
  # Start Back-end Tests
- - npm run <filename>
+ - npm run _filename_
