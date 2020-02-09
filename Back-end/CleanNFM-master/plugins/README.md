@@ -1,0 +1,1 @@
+Fastify plugins places here
