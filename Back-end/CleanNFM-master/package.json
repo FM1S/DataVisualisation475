@@ -9,7 +9,7 @@
   "dependencies": {
     "axios": "^0.19.1",
     "fast-json-stringify": "^1.16.0",
-    "fastify": "^2.8.0",
+    "fastify": "^2.15.1",
     "fastify-autoload": "^1.0.0",
     "fastify-blipp": "^2.1.0",
     "fastify-compress": "^0.11.0",
