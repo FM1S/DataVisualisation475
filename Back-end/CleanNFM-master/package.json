@@ -21,7 +21,7 @@
     "fastify-plugin": "^1.6.0",
     "fastify-rob-config": "0.0.2",
     "fastify-sensible": "^2.1.1",
-    "fastify-static": "^2.5.0",
+    "fastify-static": "^4.2.4",
     "fastify-swagger": "^2.4.0",
     "forever-monitor": "^2.0.0",
     "mocha": "^7.0.0",
